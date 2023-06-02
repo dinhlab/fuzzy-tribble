@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "name": "mongoose-lab",
+  "dependencies": {
+    "mongoose": "^7.2.2",
+    "nodemon": "^2.0.22"
+  },
+  "scripts": {
+    "dev": "nodemon ./getting-started.js"
+  }
+}
